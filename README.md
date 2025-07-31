@@ -12,7 +12,7 @@ Prevents duplicate guesses and invalid inputs.
 
 Victory and loss messages.
 
-### 🚀 How to Play:
+###  How to Play:
 Run the script.
 
 You'll be told how many characters are in the mystery word.
@@ -21,7 +21,7 @@ Enter one letter at a time.
 
 Keep guessing until you uncover the word or run out of lives!
 
-🧠 Example:
+ Example:
 The mystery word has 6 characters
 ['_', '_', '_', '_', '_', '_']
 Please enter a letter: a
